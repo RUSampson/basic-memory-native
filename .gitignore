@@ -1,0 +1,6 @@
+.build/
+dist/
+models/
+scratch/
+.DS_Store
+*.sketch

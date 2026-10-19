@@ -1,0 +1,6 @@
+{
+  "lang.name": "Test",
+  "section.system.title": "System TEST",
+  "sys.lang": "Interface language (TEST)",
+  "sys.lang.note": "Язык собран из l10n/test.json; всё остальное — fallback на en."
+}
