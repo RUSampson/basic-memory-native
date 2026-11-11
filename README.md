@@ -1,4 +1,5 @@
 # BMem: Privacy-First AI Memory for Mac
+Compatible <basic-memory-1.0.0 (old version)
 
 **Native Swift app + MCP server. Your notes, your device, zero cloud.
 Works with Claude, Hermes, OpenClaw. Install in 30 seconds.**
